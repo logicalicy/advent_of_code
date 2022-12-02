@@ -18,7 +18,7 @@ defmodule Elf  do
 
   def max_three(vals) do
     sorted = Enum.sort(vals)
-    [a | [b | [c | tail]]] = Enum.reverse(sorted)
+    [a, b, c] = Enum.reverse(sorted) |> Enum.slice(0..2)
     [a, b, c]
   end
 
