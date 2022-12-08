@@ -1,7 +1,6 @@
 # 2022/12/01
 
-On the first day of Christmas, the [advent of code](https://adventofcode.com/) brought to me,
-an elf that counted calories with Elixir.
+First day of [advent of code](https://adventofcode.com/): elf that counted calories with Elixir.
 
 ## Run
 

@@ -1,7 +1,6 @@
 # 2022/12/02
 
-On the second day of Christmas, the [advent of code](https://adventofcode.com/) brought to me,
-an elf that won Rock, Paper Scissors with Haskell.
+Second day of [advent of code](https://adventofcode.com/): an elf that won Rock, Paper Scissors with Haskell.
 
 ## Background
 
@@ -31,4 +30,5 @@ _Question:_ What would total score be if (new) strategy guide is followed?
 
 ```
 runhaskell Part1
+runhaskell Part2
 ```
