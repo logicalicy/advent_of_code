@@ -3,3 +3,6 @@
 # Haskell
 *.hi
 *.o
+
+# Python
+__pycache__/
