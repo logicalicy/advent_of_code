@@ -18,11 +18,18 @@ But many section assignments overlap!
 
 _Question:_ In how many assignment pairs does one range fully contain the other?
 
+## Part #2
+
+Elves would like to know the number of pairs that overlap at all.
+
+_Question:_ In how many assignment pairs do the ranges overlap?
+
 ## Run
 
 ```
-cd ./2022/12/04/part1
+cd ./2022/12/04/elves
 cargo build
+cargo test
 cargo run
 ```
 
