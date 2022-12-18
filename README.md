@@ -27,3 +27,15 @@ See [Python solution](./2022/12/03/README.md).
 Elves cleaning up camp!
 
 See [Rust solution](./2022/12/04/README.md).
+
+### 12/05
+
+Elves are moving crates with cranes.
+
+See [JavaScript solution](./2022/12/05/README.md).
+
+### 12/06
+
+Elves doing signal-tuning.
+
+See [Rust-WASM solution](./2022/12/06/README.md).

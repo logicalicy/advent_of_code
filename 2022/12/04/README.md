@@ -2,8 +2,6 @@
 
 Fourth day of [advent of code](https://adventofcode.com/): an elf did camp cleanup with Rust.
 
-# Background
-
 ## Part #1
 
 Camp needs to be cleaned up to make space for supplies from the ships.
@@ -18,13 +16,22 @@ But many section assignments overlap!
 
 _Question:_ In how many assignment pairs does one range fully contain the other?
 
+### Run
+
+```
+cd ./2022/12/04/elves
+cargo build
+cargo test
+cargo run
+```
+
 ## Part #2
 
 Elves would like to know the number of pairs that overlap at all.
 
 _Question:_ In how many assignment pairs do the ranges overlap?
 
-## Run
+### Run
 
 ```
 cd ./2022/12/04/elves

@@ -9,3 +9,6 @@ __pycache__/
 
 # Rust
 target/
+
+# npm
+node_modules/
