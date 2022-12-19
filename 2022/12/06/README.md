@@ -37,3 +37,9 @@ cd www
 npm run start
 open http://localhost:8080/
 ```
+
+## Part #2
+
+Start-of-message marker has 14 distinct chars, rather than four.
+
+_Question:_ How many characters need to be processed before the first start-of-message marker is detected?
