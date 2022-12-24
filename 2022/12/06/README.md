@@ -2,7 +2,8 @@
 
 Sixth day of [advent of code](https://adventofcode.com/): an elf is signal-tuning.
 
-## Setup
+## Background
+### Setup
 
 This project was generated with `cargo-generate` and is built with `wasm-pack`.
 See https://rustwasm.github.io/docs/book/game-of-life
@@ -15,7 +16,7 @@ Note that the following lines were added to `elves/www/package.json`:
 }
 ```
 
-## Part #1
+### Part #1
 
 Elves give you a handheld comms device! But it's broken.
 
@@ -28,7 +29,7 @@ Elves give you a handheld comms device! But it's broken.
 
 _Question:_ How many characters need to be processed before the first start-of-packet marker is detected?
 
-### Run
+## Run
 
 ```
 cd ./2022/12/06/elves

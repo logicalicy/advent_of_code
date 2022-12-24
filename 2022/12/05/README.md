@@ -47,7 +47,7 @@ A new crane has the ability to pick up and move multiple crates at once.
 
 _Question:_ After the rearrangement procedure, what crate ends up on top of each stack?
 
-# Run
+## Run
 
 ```
 ./2022/12/05/part1.js
