@@ -39,3 +39,9 @@ See [JavaScript solution](./2022/12/05/README.md).
 Elves doing signal-tuning.
 
 See [Rust-WASM solution](./2022/12/06/README.md).
+
+### 12/07
+
+Elves freeing up disk space.
+
+See [TypeScript solution](./2022/12/07/README.md).

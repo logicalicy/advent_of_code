@@ -10,5 +10,6 @@ __pycache__/
 # Rust
 target/
 
-# npm
+# JS/TS
 node_modules/
+dist/

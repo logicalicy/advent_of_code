@@ -1,0 +1,19 @@
+{
+  "name": "elves",
+  "version": "1.0.0",
+  "description": "Elves free up disk space",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc --build tsconfig.json && cp input.txt dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "@types/node": "^18.11.17",
+    "ts-jest": "^29.0.3"
+  }
+}
