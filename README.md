@@ -45,3 +45,9 @@ See [Rust-WASM solution](./2022/12/06/README.md).
 Elves freeing up disk space.
 
 See [TypeScript solution](./2022/12/07/README.md).
+
+### 12/07
+
+Elves looking at trees.
+
+See [Java solution](./2022/12/08/README.md).

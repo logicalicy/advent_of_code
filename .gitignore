@@ -13,3 +13,8 @@ target/
 # JS/TS
 node_modules/
 dist/
+
+# Java
+*.class
+*.jar
+bin/
